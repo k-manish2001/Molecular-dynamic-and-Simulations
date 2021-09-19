@@ -1,0 +1,6 @@
+# Time-averaged data for fix noavgmsd
+# TimeStep c_h2oMSD[1] c_h2oMSD[2] c_h2oMSD[3] c_h2oMSD[4]
+0 0 0 0 0
+1000 1.61077 1.53096 1.53634 4.67806
+2000 1.91415 1.73316 1.7825 5.42981
+3000 2.15155 1.86519 1.98422 6.00096
